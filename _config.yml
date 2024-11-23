@@ -1,7 +1,0 @@
-title: My GitHub Pages Site
-description: A site hosted on GitHub Pages
-baseurl: "/stckOverflow-content" # Leave empty for the root repository
-url: "https://github.com/Disha1503/stackFlow.git" # Replace with your GitHub Pages URL
-theme: minima # Default Jekyll theme
-plugins:
-  - jekyll-feed
