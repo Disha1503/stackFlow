@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stackFlow/static/css/main.deb88f4a.css",
+    "main.js": "/stackFlow/static/js/main.65653b92.js",
+    "static/js/453.b4b5ca26.chunk.js": "/stackFlow/static/js/453.b4b5ca26.chunk.js",
+    "static/media/logo.png": "/stackFlow/static/media/logo.57dade260bb1e01483b2.png",
+    "index.html": "/stackFlow/index.html",
+    "main.deb88f4a.css.map": "/stackFlow/static/css/main.deb88f4a.css.map",
+    "main.65653b92.js.map": "/stackFlow/static/js/main.65653b92.js.map",
+    "453.b4b5ca26.chunk.js.map": "/stackFlow/static/js/453.b4b5ca26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb88f4a.css",
+    "static/js/main.65653b92.js"
+  ]
+}
