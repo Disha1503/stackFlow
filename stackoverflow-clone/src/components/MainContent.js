@@ -60,7 +60,9 @@ function MainContent({ filter, searchQuery }) {
           <h2>
             {searchQuery
               ? `Search Results for "${searchQuery}"`
-              : `Top Questions (${filter.charAt(0).toUpperCase() + filter.slice(1)})`}
+              : `Top Questions (${
+                  filter.charAt(0).toUpperCase() + filter.slice(1)
+                })`}
           </h2>
 
           {loading ? (
